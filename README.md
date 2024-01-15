@@ -1,5 +1,5 @@
-# couse-asiri-hizli-sniper
-2024, özel yapılmış standart sniper
+# Couse Sniper V1
+2024, özel yapılmış standart v1 sniper kullanıma açıktır.
 
 
 # ~ Kurulum
