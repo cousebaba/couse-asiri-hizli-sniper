@@ -54,7 +54,7 @@ def check_vanity():
                 else:
                     print("\x1b[36mVanity URL hala aktif (bu hızı değil geçen süre milisaniye cinsinden.):", VANITY_URL, "- Süre:", f"{elapsed_time * 1000:.2f} milisaniye\x1b[0m")
 
-                    # Hız kontrolü
+                    # Hız Kontrolü, Rate Limit İçin.
                     if elapsed_time < 0.2:
                         print("\x1b[32mHızlı bir şekilde elde edildi!\x1b[0m")
                         break
