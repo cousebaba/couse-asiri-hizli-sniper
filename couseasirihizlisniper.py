@@ -66,7 +66,7 @@ def check_vanity():
 if __name__ == "__main__":
     VANITY_URL = input("\x1b[36mistediğiniz Vanity URL'yi girin:\x1b[0m ") # burda ilk baştakini doldurmak zorunda değilsiniz, zaten sniper çalıştığında soracaktır.
     
-    # 35 Thread Kullandım, Ben Hızı Artırmak İsterseniz 20 vb. yapabilirsiniz.
+    # 35 Thread Kullandım, Ben Hızı Artırmak İsterseniz 40-50 vb. yapabilirsiniz.
     threads = []
     for _ in range(35):
         vanity_thread = threading.Thread(target=check_vanity)
