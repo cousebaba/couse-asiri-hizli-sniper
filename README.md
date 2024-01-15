@@ -10,6 +10,9 @@ pip3 install -r requirements
 " python couseasirihizlisniper.py " 
 Kullanımdan Önce Modülleri İndirin.
 
+# ~ Ayarlama
+herşeyi, yaptıktan sonra modüllerini indirdikten sonra vb.
+couseasirihizlisniper.py dosyasından token,webhook,guild_id gibi değişkenleri kendininize göre ayarlayın.
 
 # ~ Yardım 
 Yardım, İçin Discord: cousewhy#0
